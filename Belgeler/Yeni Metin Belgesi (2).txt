@@ -1,0 +1,19 @@
+ODA DURUM KOD VE RENKLERÝ :
+
+1-DOLU				  =  51; 122; 183          (MAVÝ)
+2-BOÞ(TEMÝZ) 			  =  61; 214; 22             (YEÞÝL)
+3-BOÞ(KÝRLÝ-SATILAMAZ)   		  =  RED    
+4-ARIZALI(OOS) 			  =   GRAY
+5-ARIZALI(OOO)			  =  BLACK
+6-TEMÝZLENMÝÞ(ONAY BEKLÝYOR)          =  GOLD
+
+
+
+
+
+1-public deðiþken ile mevcut seçili olaný kontrol et
+2-radiodan tarih tipini belirle
+3-seçili olan ile tarihi sorgula
+4-grafiði temizle ve sorgudan gelenle doldur
+5-karþýlaþtýrma seçilmediyse seçili olan deðerin 5 öncesi deðere kadar birleþik göster
+6-karþýlaþtýrma seçiliyse ikisini farklý renklerde birleþik göster
